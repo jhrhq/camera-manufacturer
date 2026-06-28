@@ -1,16 +1,53 @@
-# React + Vite
+# This Project Used Create React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Visit the `live` link [SONIKON](https://sonikon-88dc4.web.app/).
+Visit the `live` link [SONIKON-server](https://sonikon.herokuapp.com).
 
-Currently, two official plugins are available:
+## Available Specificaton
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Regular Users Feature
 
-## React Compiler
+- You Can Purchase a product
+- You Have a Admin panel
+- You Can update your user name and address
+- You can cancel or delete a product order
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Admin
 
-## Expanding the ESLint configuration
+- Admin can see all the ordered products
+- also can update his or her profile data
+- Can cancel unpaid order
+- Can update or add new product to the database
+- Access to all users
+- Admin can make anyone admin.
+- Admin can remove a user
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Packages that are used in this project
+
+- React
+  -React Query
+  -Rect hooks form
+  -Reaact icon
+  -React router dom
+  -React toastify
+  -DaisyUi
+  -Axios
+  -Firebase
+  -React Day Picker
+  -Stripe(PAYMENT)
+
+### Username Admin
+
+     jo@jo.com
+
+### Password Admin
+
+     123456789
+
+### Username regular
+
+     jo1@jo.com
+
+### Password Admin
+
+     123456789
